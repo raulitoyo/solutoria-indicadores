@@ -1,0 +1,2 @@
+# solutoria-indicadores
+Desarrollador Junior
